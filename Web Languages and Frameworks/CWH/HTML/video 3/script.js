@@ -1,1 +1,0 @@
-alert("press ok to continue");

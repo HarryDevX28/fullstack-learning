@@ -1,6 +1,6 @@
 # Basic HTML Code
 
-This project covers the basic structure of an HTML webpage, including the use of:
+This lecture covered the basic structure of an HTML webpage, including the use of:
 - Head
 - Title
 - Body

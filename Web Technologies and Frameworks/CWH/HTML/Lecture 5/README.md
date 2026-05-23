@@ -1,6 +1,6 @@
 # HTML Media and Lists Practice
 
-This project demonstrates the use of images, tables, and lists in HTML as part of my Web Development learning journey.
+This lecture demonstrated the use of images, tables, and lists in HTML as part of my Web Development learning journey.
 
 ## Features
 

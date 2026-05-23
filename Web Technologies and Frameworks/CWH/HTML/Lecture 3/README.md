@@ -1,6 +1,6 @@
 # HTML, CSS & JavaScript Practice
 
-This project demonstrates the basic structure of a webpage using HTML, along with introductory CSS styling and JavaScript functionality.
+This lecture demonstrated the basic structure of a webpage using HTML, along with introductory CSS styling and JavaScript functionality.
 
 ## Concepts Practiced
 
